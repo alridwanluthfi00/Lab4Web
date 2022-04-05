@@ -5,7 +5,7 @@
 # Kelas   : TI.20.A.1
 # Matkul  : Pemrograman Web
 ----------
-Box Element 
+# Box Element 
 ----------
 # 1. Langkah-langkah Praktikum
 Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut :
@@ -40,3 +40,55 @@ Selanjutnya buka browser dan refresh kembali untuk melihat tampilan nya :
 ---------
 ![7 - Tampilan Clearfix Element](https://user-images.githubusercontent.com/73066008/161793460-94eff7e9-7b35-4f06-9cc7-02dbfdeecb98.png)
 ---------
+# Layout
+---------
+# Membuat Layout Sederhana
+Kita akan membuat layout web sederhana seperti gambar berikut :
+---------
+![1 - Contoh Layout](https://user-images.githubusercontent.com/73066008/161806753-1490b350-becf-4cd1-86c1-e71cb283184a.png)
+--------
+Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama
+home.html, dan file css dengan nama style.css.
+--------
+![2 - Membuat Folder Baru](https://user-images.githubusercontent.com/73066008/161807027-a3a092ee-2825-4c5f-ab76-7a1236bb7350.png)
+--------
+Kemudian buat kerangka layout dengan semantics element seperti berikut :
+--------
+![3 - Contoh Kerangka Layout](https://user-images.githubusercontent.com/73066008/161807066-9d7128f4-4767-4c4f-ba37-2571f037f53e.png)
+--------
+Kemudian tulis kode berikut :
+--------
+![4 - Membuat Coding Layout](https://user-images.githubusercontent.com/73066008/161807095-b39e6d54-db2c-4156-a5e7-b58261a30670.png)
+--------
+Kemudian buka browser dan lihat hasilnya :
+--------
+![5 - Tampilan Layout](https://user-images.githubusercontent.com/73066008/161807130-f9f0b9a7-f297-4003-94d7-4aa0511c474c.png)
+--------
+Kemudian tambahkan kode CSS untuk membuat layoutnya :
+--------
+![6 - CSS Untuk Layout](https://user-images.githubusercontent.com/73066008/161822521-91d483f2-372e-4048-943b-a1e8ef710847.png)
+--------
+Kemudian lihat hasilnya pada browser :
+--------
+![7 - Tampilan CSS Layout](https://user-images.githubusercontent.com/73066008/161822682-5216c9e9-7572-4b5d-b9c5-02ea5d9f50af.png)
+--------
+# Membuat Navigasi
+Kemudian selanjutnya mengatur navigasi :
+--------
+![8 - CSS Untuk Navigasi](https://user-images.githubusercontent.com/73066008/161822821-cd237cec-d750-4f03-9aa2-3babf1e062fc.png)
+--------
+Kemudian lihat hasilnya :
+--------
+![9 - Tampilan CSS Navigasi](https://user-images.githubusercontent.com/73066008/161822927-5beb145b-baa7-450e-90ec-19bdb9e9538b.png)
+--------
+# Membuat Hero Panel
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut :
+--------
+![10 - Membuat Hero Panel](https://user-images.githubusercontent.com/73066008/161823043-6b9495e8-55bc-4f1e-b281-bda221a53362.png)
+--------
+![11 - CSS Untuk Hero Panel](https://user-images.githubusercontent.com/73066008/161823067-9930a409-64ba-4439-87d3-f4b7e3845b46.png)
+--------
+Kemudian simpan dan lihat hasilnya :
+--------
+![12 - Tampilan CSS Hero Panel](https://user-images.githubusercontent.com/73066008/161823087-d27202e5-1e04-43bf-b379-662bc1cce441.png)
+
