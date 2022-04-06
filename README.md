@@ -91,4 +91,44 @@ Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut :
 Kemudian simpan dan lihat hasilnya :
 --------
 ![12 - Tampilan CSS Hero Panel](https://user-images.githubusercontent.com/73066008/161823087-d27202e5-1e04-43bf-b379-662bc1cce441.png)
-
+--------
+# Mengatur Layout Main dan Sidebar
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float :
+--------
+![13 - Mengatur Layout Main dan Sidebar](https://user-images.githubusercontent.com/73066008/161866736-84164942-10dc-4425-b0c0-74ab19d18b69.png)
+--------
+# Membuat Sidebar Widget
+Kemudian selanjutnya menambahkan element lain dalam sidebar :
+--------
+![14 - Membuat Sidebar Widget](https://user-images.githubusercontent.com/73066008/161866747-bd55f727-64f9-42d7-8605-119f7f088404.png)
+--------
+Kemudian tambahkan CSS :
+--------
+![15 - Menambahkan CSS pada Sidebar Widget](https://user-images.githubusercontent.com/73066008/161866756-ff3dfe21-b959-494b-85f9-e0726fe462c3.png)
+--------
+Kemudian simpan dan lihat hasilnya :
+--------
+![16 - Tampilan Sidebar Widget](https://user-images.githubusercontent.com/73066008/161866765-21869839-dd37-44f9-9e24-97d58c0536da.png)
+--------
+# Mengatur Footer
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer :
+--------
+......
+--------
+simpan lalu lihat hasilnya :
+--------
+.....
+-------
+Menambahkan Elemen lainnya pada Main Content :
+--------
+......
+--------
+Kemudian tambahkan CSS :
+--------
+.....
+.....
+--------
+simpan dan lihat hasilnya :
+--------
+.....
+--------
